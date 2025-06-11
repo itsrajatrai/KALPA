@@ -1,2 +1,2 @@
 # KALPA
-Kinetic Abstraction Language for Programming Adventures
+Knowledge-Aware Language for Precise Algorithms
