@@ -1,0 +1,15 @@
+Let x be 10
+Let y be 20
+Let sum be x plus y
+Print sum
+If sum is greater than 25, then print "Big Number"
+Repeat 3 times: print "KALPA"
+
+
+x = 10
+y = 20
+sum = x + y
+print sum
+
+if sum > 25: print "Big"
+repeat 3: print "Hello"
